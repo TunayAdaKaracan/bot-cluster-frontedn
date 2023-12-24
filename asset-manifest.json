@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fa811aa.css",
+    "main.js": "/static/js/main.e1e54c98.js",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/gear-solid.svg": "/static/media/gear-solid.80d70ca51e3fc4664867d278bd414a03.svg",
+    "index.html": "/index.html",
+    "static/media/rotate-right.svg": "/static/media/rotate-right.92502cbcb09adda38307df6cc8f46d87.svg",
+    "static/media/circle-xmark-solid.svg": "/static/media/circle-xmark-solid.934bdf773da311e687f858f644346995.svg",
+    "static/media/circle-check-solid.svg": "/static/media/circle-check-solid.3888416ef4f608cee01b2a561e9da6cf.svg",
+    "main.6fa811aa.css.map": "/static/css/main.6fa811aa.css.map",
+    "main.e1e54c98.js.map": "/static/js/main.e1e54c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa811aa.css",
+    "static/js/main.e1e54c98.js"
+  ]
+}
